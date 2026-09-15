@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WalkieTalkie</string>
+    <string name="hint_device_name">Your name</string>
+    <string name="label_volume">Volume</string>
+    <string name="label_devices">Devices on channel</string>
+    <string name="ptt_idle">HOLD TO TALK</string>
+    <string name="ptt_active">TALKING…</string>
+    <string name="status_starting">Starting…</string>
+    <string name="notif_channel_name">Walkie-Talkie</string>
+    <string name="notif_title">Walkie-Talkie active</string>
+    <string name="notif_text">Listening on the multicast channel</string>
+    <string name="permission_denied">Microphone permission is required to talk.</string>
+</resources>

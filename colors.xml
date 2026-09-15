@@ -1,0 +1,13 @@
+<resources>
+    <color name="brand_primary">#2E7D32</color>
+    <color name="brand_primary_dark">#1B5E20</color>
+    <color name="brand_accent">#FFC107</color>
+    <color name="background">#121212</color>
+    <color name="surface">#1E1E1E</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="online_dot">#4CAF50</color>
+    <color name="speaking_dot">#FFC107</color>
+    <color name="ptt_idle_color">#2E7D32</color>
+    <color name="ptt_active_color">#C62828</color>
+</resources>
